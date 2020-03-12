@@ -1452,7 +1452,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5829401715609104459}
   m_Layer: 0
-  m_Name: Marker Components
+  m_Name: COMPONENTS - Marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1519,7 +1519,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3958a91f9f030d042bbc7717bfb859de, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isFloorScanning: 0
+  isFloorScanning: 1
   arKitSection: {fileID: 2667448986062212803}
   arCoreSection: {fileID: 2510049215276967855}
   arCorePlacementManipulator: {fileID: 6008070325310920720}
@@ -1882,7 +1882,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PlanePrefab: {fileID: 1568414836858200, guid: f0e0be81472ff1243aa2afa27e5d0e61,
     type: 3}
-  m_DetectionMode: -1
+  m_DetectionMode: 1
 --- !u!114 &7275688072188542122
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2033,7 +2033,7 @@ GameObject:
   m_Component:
   - component: {fileID: 848054343288125040}
   m_Layer: 0
-  m_Name: Floor scanning Components
+  m_Name: COMPONENTS - Floor Scanning
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

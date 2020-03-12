@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ab64ceacbd194b144be55e254b38e7c7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: InterFace Black
+  fontNames:
+  - InterFace Black
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c07e704b7c14b7d49a5c1d33fcf170aa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

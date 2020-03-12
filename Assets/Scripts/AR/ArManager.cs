@@ -76,6 +76,8 @@ namespace AR
 
         protected override void Awake()
         {
+            base.Awake();
+
             IsFloorScanning = isFloorScanning;
 #if UNITY_ANDROID
             arKitSection.SetActive(false);
@@ -101,7 +103,6 @@ namespace AR
             arKitPlacementManipulator.placedPrefab = prefab;
             arKitMarkerController.prefab = prefab;
 #endif
-
         }
 
         public void SetPlacedObjectVisibility(bool state)

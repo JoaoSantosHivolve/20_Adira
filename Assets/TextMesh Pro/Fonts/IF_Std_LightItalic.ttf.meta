@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c7ee95009b1af114a905993b2b7ba76d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: InterFace Light
+  fontNames:
+  - InterFace Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a54d600386761d6479a2263c610539fb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

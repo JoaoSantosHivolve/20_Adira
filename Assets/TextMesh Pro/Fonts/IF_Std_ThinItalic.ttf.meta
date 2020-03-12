@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a67aa5ecfa3618b40ab27ad227e9877a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: InterFace Thin
+  fontNames:
+  - InterFace Thin
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c55afe66cb259d247a3e6a625f4b8e1a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
